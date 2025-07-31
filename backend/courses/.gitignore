@@ -1,0 +1,19 @@
+# Django
+*.pyc
+__pycache__/
+db.sqlite3
+.env
+/static/
+/media/
+
+# VSCode or PyCharm settings
+.vscode/
+.idea/
+
+# Docker
+*.log
+
+# Python
+venv/
+.env/
+*.egg-info/
