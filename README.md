@@ -1,10 +1,5 @@
-# AI-Academy
-
-This project integrates Django REST API with React frontend.
-
-## Backend
-- Django
-- Django REST Framework
-
-## Frontend
-- React
+<<<<<<< HEAD
+Your local changes here
+=======
+Remote changes from GitHub here
+>>>>>>> origin/main
